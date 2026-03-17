@@ -1,0 +1,7 @@
+services:
+  sales-dashboard:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./output:/app/output
