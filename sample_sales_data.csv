@@ -1,0 +1,11 @@
+id,name,region,product,sales,units,date
+1,Alice Johnson,North,Laptop,1200,3,2024-01-15
+2,Bob Smith,South,Phone,800,5,2024-01-18
+3,Carol White,East,Tablet,950,4,2024-02-02
+4,David Brown,West,Laptop,1500,4,2024-02-10
+5,Eva Green,North,Phone,600,4,2024-02-14
+6,Frank Black,South,Monitor,700,2,2024-03-01
+7,Grace Lee,East,Laptop,1800,5,2024-03-08
+8,Henry Kim,West,Tablet,1100,6,2024-03-15
+9,Iris Chen,North,Monitor,850,3,2024-03-20
+10,Jack Davis,South,Laptop,1350,3,2024-04-05
